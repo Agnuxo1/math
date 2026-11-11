@@ -9,6 +9,10 @@ This collection includes results at different stages of verification. Not all ha
 Some of the unformalized results could have issues. We will endeavor to fix any such issues quickly.
 We are also exploring community-hosted repositories for these materials. 
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves OpenAI’s mathematical manuscript collection and supporting proof artifacts, with a catalogue that connects related papers and available Lean formalizations. Its practical value is easier discovery, reuse and independent checking of upstream research. The <a href="CONTENTS.md">manuscript map</a> reduces navigation work, while each result retains its stated verification status and original authorship rather than becoming a new result of this fork.</sub>
+<!-- impact-note:end -->
+
 ## Navigating the collection
 
 The current catalogue contains 719 manuscripts organized into 372 families. A family groups related papers, which may include a principal result, companion arguments, consequences, or alternative proofs. Each family is classified by mathematical discipline.
